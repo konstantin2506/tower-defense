@@ -1,0 +1,10 @@
+var searchData=
+[
+  ['value_5ftype_0',['value_type',['../classTowerDefence_1_1MatrixIterator.html#a0631c7a740fe48cca67cfb32064fec03',1,'TowerDefence::MatrixIterator::value_type'],['../classTowerDefence_1_1Matrix.html#ae4ad6cec5e0f288677c3788559a6ceaf',1,'TowerDefence::Matrix::value_type']]],
+  ['vecidgridservice_1',['VecIDGridService',['../classTowerDefence_1_1VecIDGridService.html',1,'TowerDefence::VecIDGridService'],['../classTowerDefence_1_1VecIDGridService.html#ad99f23c7a7bbb3b6e1d1c4cf664c74be',1,'TowerDefence::VecIDGridService::VecIDGridService()=delete'],['../classTowerDefence_1_1VecIDGridService.html#acc544e3f3fe27707e75001be2e2b5f01',1,'TowerDefence::VecIDGridService::VecIDGridService(const size_t rows, const size_t columns)']]],
+  ['vector2_2',['Vector2',['../classTowerDefence_1_1Vector2.html',1,'TowerDefence::Vector2&lt; T &gt;'],['../classTowerDefence_1_1Vector2.html#a1120a15f252dfb3a5f60af622bc1f2f2',1,'TowerDefence::Vector2::Vector2()=default'],['../classTowerDefence_1_1Vector2.html#a37032264e2e3246a548085c80cdc36b1',1,'TowerDefence::Vector2::Vector2(T x, T y)'],['../classTowerDefence_1_1Vector2.html#a8e73d0f686be49b40900c30383ee6f73',1,'TowerDefence::Vector2::Vector2(const Vector2 &amp;vec)=default'],['../classTowerDefence_1_1Vector2.html#ab4ac125629d43965897013e1231bcacc',1,'TowerDefence::Vector2::Vector2(Vector2 &amp;&amp;vec)=default']]],
+  ['vector2_3c_20int_20_3e_3',['Vector2&lt; int &gt;',['../classTowerDefence_1_1Vector2.html',1,'TowerDefence']]],
+  ['vector2_3c_20size_5ft_20_3e_4',['Vector2&lt; size_t &gt;',['../classTowerDefence_1_1Vector2.html',1,'TowerDefence']]],
+  ['velocityeffect_5',['VelocityEffect',['../classTowerDefence_1_1VelocityEffect.html',1,'TowerDefence::VelocityEffect&lt; OwnerT &gt;'],['../classTowerDefence_1_1VelocityEffect.html#a10f881c54a4ec47e43afa65d6e9d6a14',1,'TowerDefence::VelocityEffect::VelocityEffect()']]],
+  ['view_6',['View',['../classTowerDefence_1_1View.html',1,'TowerDefence::View'],['../classTowerDefence_1_1View.html#af1d9f05c0ad28083d4d222b0726406f9',1,'TowerDefence::View::View()']]]
+];

@@ -1,0 +1,229 @@
+{
+    "archer_41": {
+        "attack_strategy": {
+            "damage": 50.0,
+            "radius": 15,
+            "reload_time": 2.0
+        },
+        "health": 600.0,
+        "id": 41,
+        "is_moving": true,
+        "max_health": 600.0,
+        "sight_x": 1,
+        "sight_y": 0,
+        "x": 2,
+        "y": 5
+    },
+    "archer_48": {
+        "attack_strategy": {
+            "damage": 50.0,
+            "radius": 15,
+            "reload_time": 2.0
+        },
+        "health": 600.0,
+        "id": 48,
+        "is_moving": true,
+        "max_health": 600.0,
+        "sight_x": 0,
+        "sight_y": 1,
+        "x": 1,
+        "y": 1
+    },
+    "archer_56": {
+        "attack_strategy": {
+            "damage": 50.0,
+            "radius": 15,
+            "reload_time": 2.0
+        },
+        "health": 600.0,
+        "id": 56,
+        "is_moving": true,
+        "max_health": 600.0,
+        "sight_x": -1,
+        "sight_y": 0,
+        "x": 5,
+        "y": 0
+    },
+    "archer_63": {
+        "attack_strategy": {
+            "damage": 50.0,
+            "radius": 15,
+            "reload_time": 2.0
+        },
+        "health": 600.0,
+        "id": 63,
+        "is_moving": true,
+        "max_health": 600.0,
+        "sight_x": -1,
+        "sight_y": 1,
+        "x": 9,
+        "y": 0
+    },
+    "balloon_57": {
+        "attack_strategy": {
+            "ammo": 3,
+            "castle_coefficient": 1.0,
+            "damage": 900.0,
+            "reload_time": 1.0
+        },
+        "health": 700.0,
+        "id": 57,
+        "is_moving": true,
+        "max_health": 700.0,
+        "sight_x": 0,
+        "sight_y": 1,
+        "x": 4,
+        "y": 3
+    },
+    "balloon_64": {
+        "attack_strategy": {
+            "ammo": 3,
+            "castle_coefficient": 1.0,
+            "damage": 900.0,
+            "reload_time": 1.0
+        },
+        "health": 700.0,
+        "id": 64,
+        "is_moving": true,
+        "max_health": 700.0,
+        "sight_x": -1,
+        "sight_y": 1,
+        "x": 5,
+        "y": 0
+    },
+    "warrior_24": {
+        "attack_strategy": {
+            "damage": 50.0,
+            "radius": 2,
+            "reload_time": 1.0
+        },
+        "health": 671.8521118164063,
+        "id": 24,
+        "is_moving": true,
+        "max_health": 1000.0,
+        "sight_x": 1,
+        "sight_y": -1,
+        "x": 2,
+        "y": 6
+    },
+    "warrior_27": {
+        "attack_strategy": {
+            "damage": 50.0,
+            "radius": 2,
+            "reload_time": 1.0
+        },
+        "health": 1000.0,
+        "id": 27,
+        "is_moving": true,
+        "max_health": 1000.0,
+        "sight_x": 1,
+        "sight_y": -1,
+        "x": 1,
+        "y": 7
+    },
+    "warrior_32": {
+        "attack_strategy": {
+            "damage": 50.0,
+            "radius": 2,
+            "reload_time": 1.0
+        },
+        "health": 111.3326187133789,
+        "id": 32,
+        "is_moving": true,
+        "max_health": 1000.0,
+        "sight_x": 1,
+        "sight_y": -1,
+        "x": 1,
+        "y": 7
+    },
+    "warrior_35": {
+        "attack_strategy": {
+            "damage": 50.0,
+            "radius": 2,
+            "reload_time": 1.0
+        },
+        "health": 1000.0,
+        "id": 35,
+        "is_moving": true,
+        "max_health": 1000.0,
+        "sight_x": -1,
+        "sight_y": 0,
+        "x": 3,
+        "y": 8
+    },
+    "warrior_40": {
+        "attack_strategy": {
+            "damage": 50.0,
+            "radius": 2,
+            "reload_time": 1.0
+        },
+        "health": 71.00035858154297,
+        "id": 40,
+        "is_moving": true,
+        "max_health": 1000.0,
+        "sight_x": -1,
+        "sight_y": 0,
+        "x": 4,
+        "y": 8
+    },
+    "warrior_47": {
+        "attack_strategy": {
+            "damage": 50.0,
+            "radius": 2,
+            "reload_time": 1.0
+        },
+        "health": 1000.0,
+        "id": 47,
+        "is_moving": true,
+        "max_health": 1000.0,
+        "sight_x": -1,
+        "sight_y": 0,
+        "x": 6,
+        "y": 8
+    },
+    "warrior_50": {
+        "attack_strategy": {
+            "damage": 50.0,
+            "radius": 2,
+            "reload_time": 1.0
+        },
+        "health": 1000.0,
+        "id": 50,
+        "is_moving": true,
+        "max_health": 1000.0,
+        "sight_x": -1,
+        "sight_y": 1,
+        "x": 8,
+        "y": 7
+    },
+    "warrior_55": {
+        "attack_strategy": {
+            "damage": 50.0,
+            "radius": 2,
+            "reload_time": 1.0
+        },
+        "health": 1000.0,
+        "id": 55,
+        "is_moving": true,
+        "max_health": 1000.0,
+        "sight_x": -1,
+        "sight_y": 1,
+        "x": 8,
+        "y": 7
+    },
+    "warrior_62": {
+        "attack_strategy": {
+            "damage": 50.0,
+            "radius": 2,
+            "reload_time": 1.0
+        },
+        "health": 1000.0,
+        "id": 62,
+        "is_moving": true,
+        "max_health": 1000.0,
+        "sight_x": 0,
+        "sight_y": -1,
+        "x": 9,
+        "y": 9
+    }
+}

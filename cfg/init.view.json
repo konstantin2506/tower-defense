@@ -1,0 +1,28 @@
+{
+    "name": "view",
+    "width": 1920,
+    "height": 1000,
+
+    "panelHeight": 300,
+
+    "font": "/usr/share/fonts/TTF/JetBrainsMonoNerdFontPropo-Regular.ttf",
+    "back_ground": {
+        "land": "../textures/grass.jpg",
+        "mountain": "../textures/mountain.jpg",
+        "water": "../textures/water.jpg",
+        "panel_background": "../textures/panel_background.jpg",
+        "menu_background": "../textures/menu_background.jpg"
+    },
+    "static": {
+        "basic_wall": "../textures/wall.png",
+        "basic_tower": "../textures/tower.png",
+        "castle": "../textures/castle.png"
+    },
+    "dynamic": {
+        "archer": "../textures/archer.png",
+        "archer_boss": "../textures/archer_boss.png",
+        "balloon": "../textures/balloon.png",
+        "warrior": "../textures/warrior.png",
+        "health_bar_tile": "../textures/health_bar_tile.png"
+    }
+}

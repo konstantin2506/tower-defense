@@ -1,0 +1,30 @@
+{
+  "towers": {
+    "basic_tower": {
+      "attack_strategy": "tower_range",
+      "levels": {
+        "1": {
+          "attack_strategy": {
+            "radius": 10,
+            "damage": 500,
+            "reload_time": 2
+          }
+        },
+        "2": {
+          "attack_strategy": {
+            "radius": 30,
+            "damage": 500,
+            "reload_time": 1.5
+          }
+        },
+        "3": {
+          "attack_strategy": {
+            "radius": 30,
+            "damage": 700,
+            "reload_time": 1
+          }
+        }
+      }
+    }
+  }
+}

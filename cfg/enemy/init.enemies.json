@@ -1,0 +1,108 @@
+{
+  "enemies": {
+    "archer": {
+      "health": 600,
+      "max_health": 600,
+      "velocity": 10,
+      "regen": 1,
+      "move_type": "landed",
+      "attack_strategy_name": "enemy_range",
+      "attack_strategy": {
+        "radius": 15.0,
+        "damage": 50.0,
+        "reload_time": 2,
+        "castle_coefficient" : 0.1
+      },
+      "abilities": {
+        "dodge": {
+          "probability": 50.0
+        }
+      }
+    },
+    "warrior": {
+      "health": 1000,
+      "max_health": 1000,
+      "velocity": 5,
+      "regen": 1,
+      "move_type": "landed",
+      "attack_strategy_name": "enemy_range",
+      "attack_strategy": {
+        "radius": 2.0,
+        "damage": 50.0,
+        "reload_time": 1,
+        "castle_coefficient" : 0.5
+      },
+      "abilities": {
+        "dodge": {
+          "probability": 50.0
+        }
+      }
+    },
+    "balloon": {
+      "health": 700,
+      "max_health": 700,
+      "velocity": 7,
+      "regen": 0,
+      "move_type": "air",
+      "attack_strategy_name": "enemy_air",
+      "attack_strategy": {
+        "damage": 900.0,
+        "reload_time": 1,
+        "ammo": 3,
+        "castle_coefficient": 1
+      },
+      "abilities": {
+        "dodge": {
+          "probability": 50.0
+        },
+        "die_drop": {
+          "enemies_inside": "archer,archer,archer,archer"
+        }
+      }
+    },
+
+    "archer_boss": {
+      "health": 10000,
+      "max_health": 10000,
+      "velocity": 10,
+      "regen": 0.01,
+      "move_type": "landed",
+      "attack_strategy_name": "enemy_range",
+      "attack_strategy": {
+        "damage": 500.0,
+        "reload_time": 4,
+        "castle_coefficient": 1,
+        "radius": 16.0
+      },
+      "abilities": {
+        "die_drop": {
+          "enemies_inside": "archer,archer,archer,archer"
+        },
+        "enemy_max_health_aura": {
+          "effect": {
+            "multiplier" : 2,
+            "duration" : 0.2
+          },
+          "radius": 3,
+          "cooldown": 0.2
+        },
+        "enemy_heal_aura": {
+          "effect": {
+            "multiplier" : 2.5,
+            "duration" : 0.2
+          },
+          "radius": 3,
+          "cooldown": 0.2
+        },
+        "enemy_speed_aura": {
+          "effect": {
+            "multiplier" : 1.4,
+            "duration" : 0.2
+          },
+          "radius": 5,
+          "cooldown": 0.2
+        }
+      }
+    }
+  }
+}

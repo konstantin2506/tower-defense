@@ -1,0 +1,13 @@
+{
+  "x_coord": 4,
+  "y_coord": 5,
+  "name": "basic_castle",
+
+  "levels": {
+    "1": {
+      "health": 20000,
+      "max_health": 20000,
+      "regen": 0.01
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "walls": {
+    "basic_wall": {
+      "levels": {
+        "1": {
+          "health": 1000,
+          "max_health": 1000,
+          "regen": 0.1
+        },
+        "2": {
+          "health": 2000,
+          "max_health": 2000
+        },
+        "3": {
+          "health": 3000,
+          "max_health": 3000
+        }
+      }
+    }
+  }
+}

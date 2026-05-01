@@ -1,0 +1,35 @@
+{
+    "basic_tower_11": {
+        "attack_strategy": {
+            "damage": 500.0,
+            "radius": 10,
+            "reload_time": 2.0
+        },
+        "id": 11,
+        "level": 1,
+        "x": 2,
+        "y": 4
+    },
+    "basic_tower_5": {
+        "attack_strategy": {
+            "damage": 500.0,
+            "radius": 10,
+            "reload_time": 2.0
+        },
+        "id": 5,
+        "level": 1,
+        "x": 7,
+        "y": 9
+    },
+    "basic_tower_7": {
+        "attack_strategy": {
+            "damage": 500.0,
+            "radius": 10,
+            "reload_time": 2.0
+        },
+        "id": 7,
+        "level": 1,
+        "x": 6,
+        "y": 6
+    }
+}

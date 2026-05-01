@@ -1,0 +1,21 @@
+{
+  "tower_range": {
+    "radius": 20.0,
+    "damage": 30.0,
+    "reload_time": 2
+  },
+
+  "enemy_range": {
+    "radius": 20.0,
+    "damage": 50.0,
+    "reload_time": 1.5,
+    "castle_coefficient" : 0.1
+  },
+
+  "enemy_air": {
+    "damage": 100.0,
+    "reload_time": 1,
+    "ammo": 1,
+    "castle_coefficient": 1
+  }
+}

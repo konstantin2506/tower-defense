@@ -1,0 +1,24 @@
+{
+  "move_types": {
+    "landed": {
+      "weights": {
+        "wall":     100,
+        "tower":    100000000,
+        "castle":   3,
+        "land":     3,
+        "mountain": 1000,
+        "water":    10000
+      }
+    },
+    "air": {
+      "weights": {
+        "wall":     0,
+        "tower":    0,
+        "castle":   0,
+        "land":     0,
+        "mountain": 0,
+        "water":    0
+      }
+    }
+  }
+}

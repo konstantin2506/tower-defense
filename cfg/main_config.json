@@ -1,0 +1,32 @@
+{
+  "configs": {
+
+    "enemy_repository" : "../cfg/enemy/init.enemies.json",
+    "enemy_service" : "../cfg/enemy/init.enemies.json",
+
+    "tower_repository" : "../cfg/tower/init.towers.json",
+    "tower_service" : "../cfg/tower/init.towers.json",
+
+    "castle_repository" : "../cfg/castle/init.castle.json",
+
+    "wall_repository" : "../cfg/wall/init.walls.json",
+    "wall_service" : "../cfg/wall/init.walls.json",
+
+
+    "economy_service" : "../cfg/init.economy_service.json",
+    "world_map" : "../cfg/init.world_map.json",
+    "pathfinding" : "../cfg/init.pathfinding.json",
+
+    "attack_manager" : "../cfg/init.attack_manager.json",
+    "ability_manager" : "../cfg/init.ability_manager.json",
+
+    "view": "../cfg/init.view.json",
+
+    "enemy_service_save" : "../save/save.enemies.json",
+    "tower_service_save" : "../save/save.towers.json",
+    "castle_service_save" : "../save/save.castle.json",
+    "wall_service_save" : "../save/save.walls.json",
+    "economy_service_save": "../save/save.economy.json",
+    "id_service_save": "../save/save.id.json"
+  }
+}
